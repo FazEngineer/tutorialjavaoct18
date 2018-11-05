@@ -1,0 +1,11 @@
+
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(€ÑŞşûÿÿÿÿ8¿Ã•è,
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(²áÓÆüÿÿÿÿ8¸Öˆ–è,
+[
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ïØìÕÿÿÿÿÿ8Ú§ •è,
+j$squid:AssignmentInSubExpressionCheck"".Extract the assignment out of this expression.(’û³Èúÿÿÿÿ8ˆïú•è,
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ÊÊ¼×úÿÿÿÿ8üÁ•è,
+[
+squid:S106L"9Replace this use of System.out or System.err by a logger.(ØÑ«½ıÿÿÿÿ8€§”–è,

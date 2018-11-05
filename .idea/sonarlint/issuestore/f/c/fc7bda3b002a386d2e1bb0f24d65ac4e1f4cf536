@@ -1,0 +1,7 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡òÔ¢ùÿÿÿÿ8¸Þû„ê,
+vsquid:S00116"RRename this field "Snicker" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã™ÖÝüÿÿÿÿ8Ý‡ç„ê,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦ÎÉ±8¸Þû„ê,
+tsquid:S00116"PRename this field "Topic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óóœÒùÿÿÿÿ8Ý‡ç„ê,
